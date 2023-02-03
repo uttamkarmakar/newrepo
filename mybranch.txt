@@ -1,0 +1,2 @@
+Hello!
+This is the change from new branch remote
